@@ -1,257 +1,257 @@
 [
     [
-        "C:\\Users\\r.kutti.shettigar\\geolocation\\force-app",
+        "C:\\Users\\r.kutti.shettigar\\Geolocation\\force-app",
         {
-            "state": "n",
-            "sourcePath": "C:\\Users\\r.kutti.shettigar\\geolocation\\force-app",
+            "sourcePath": "C:\\Users\\r.kutti.shettigar\\Geolocation\\force-app",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1520308130753,
             "changeTime": 1520308130753,
             "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isMetadataFile": false,
+            "state": "n",
             "isWorkspace": false,
             "isArtifactRoot": true
         }
     ],
     [
-        "C:\\Users\\r.kutti.shettigar\\geolocation\\force-app\\main",
+        "C:\\Users\\r.kutti.shettigar\\Geolocation\\force-app\\main",
         {
-            "state": "n",
-            "sourcePath": "C:\\Users\\r.kutti.shettigar\\geolocation\\force-app\\main",
+            "sourcePath": "C:\\Users\\r.kutti.shettigar\\Geolocation\\force-app\\main",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1520308130753,
             "changeTime": 1520308130753,
             "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isMetadataFile": false,
+            "state": "n",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
     ],
     [
-        "C:\\Users\\r.kutti.shettigar\\geolocation\\force-app\\main\\default",
+        "C:\\Users\\r.kutti.shettigar\\Geolocation\\force-app\\main\\default",
         {
-            "state": "u",
-            "sourcePath": "C:\\Users\\r.kutti.shettigar\\geolocation\\force-app\\main\\default",
+            "sourcePath": "C:\\Users\\r.kutti.shettigar\\Geolocation\\force-app\\main\\default",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1520308433791,
             "changeTime": 1520308433791,
-            "contentHash": "4cfd1989fa44dd1a317ae36b127a22da3b8eae1b"
+            "contentHash": "4cfd1989fa44dd1a317ae36b127a22da3b8eae1b",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
-        "C:\\Users\\r.kutti.shettigar\\geolocation\\force-app\\main\\default\\aura",
+        "C:\\Users\\r.kutti.shettigar\\Geolocation\\force-app\\main\\default\\aura",
         {
-            "state": "n",
-            "sourcePath": "C:\\Users\\r.kutti.shettigar\\geolocation\\force-app\\main\\default\\aura",
+            "sourcePath": "C:\\Users\\r.kutti.shettigar\\Geolocation\\force-app\\main\\default\\aura",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1520308130757,
             "changeTime": 1520308130757,
             "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isMetadataFile": false,
+            "state": "n",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
     ],
     [
-        "C:\\Users\\r.kutti.shettigar\\geolocation",
+        "C:\\Users\\r.kutti.shettigar\\Geolocation",
         {
-            "state": "n",
-            "sourcePath": "C:\\Users\\r.kutti.shettigar\\geolocation",
+            "sourcePath": "C:\\Users\\r.kutti.shettigar\\Geolocation",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1520308268470,
             "changeTime": 1520308268470,
             "contentHash": "3d48858a737ab8c39315eaf1c5149980d1a9cdae",
+            "isMetadataFile": false,
+            "state": "n",
             "isWorkspace": true,
             "isArtifactRoot": false
         }
     ],
     [
-        "C:\\Users\\r.kutti.shettigar\\geolocation\\force-app\\main\\default\\objects\\Account\\fields\\geolocation__c.field-meta.xml",
+        "C:\\Users\\r.kutti.shettigar\\Geolocation\\force-app\\main\\default\\objects\\Account\\fields\\geolocation__c.field-meta.xml",
         {
-            "state": "u",
-            "sourcePath": "C:\\Users\\r.kutti.shettigar\\geolocation\\force-app\\main\\default\\objects\\Account\\fields\\geolocation__c.field-meta.xml",
+            "sourcePath": "C:\\Users\\r.kutti.shettigar\\Geolocation\\force-app\\main\\default\\objects\\Account\\fields\\geolocation__c.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 409,
             "modifiedTime": 1520308433732,
             "changeTime": 1520308433732,
-            "contentHash": "c2aafba5799dcd95b1be459afa7757d4fee11963"
+            "contentHash": "c2aafba5799dcd95b1be459afa7757d4fee11963",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
-        "C:\\Users\\r.kutti.shettigar\\geolocation\\force-app\\main\\default\\layouts\\Account-Account %28Sales%29 Layout.layout-meta.xml",
+        "C:\\Users\\r.kutti.shettigar\\Geolocation\\force-app\\main\\default\\layouts\\Account-Account %28Sales%29 Layout.layout-meta.xml",
         {
-            "state": "u",
-            "sourcePath": "C:\\Users\\r.kutti.shettigar\\geolocation\\force-app\\main\\default\\layouts\\Account-Account %28Sales%29 Layout.layout-meta.xml",
+            "sourcePath": "C:\\Users\\r.kutti.shettigar\\Geolocation\\force-app\\main\\default\\layouts\\Account-Account %28Sales%29 Layout.layout-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 9711,
             "modifiedTime": 1520308433748,
             "changeTime": 1520308433748,
-            "contentHash": "50d43ba9d19a82c36b9b7762dc84e36bc980bbed"
+            "contentHash": "50d43ba9d19a82c36b9b7762dc84e36bc980bbed",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
-        "C:\\Users\\r.kutti.shettigar\\geolocation\\force-app\\main\\default\\layouts\\Account-Account %28Support%29 Layout.layout-meta.xml",
+        "C:\\Users\\r.kutti.shettigar\\Geolocation\\force-app\\main\\default\\layouts\\Account-Account %28Support%29 Layout.layout-meta.xml",
         {
-            "state": "u",
-            "sourcePath": "C:\\Users\\r.kutti.shettigar\\geolocation\\force-app\\main\\default\\layouts\\Account-Account %28Support%29 Layout.layout-meta.xml",
+            "sourcePath": "C:\\Users\\r.kutti.shettigar\\Geolocation\\force-app\\main\\default\\layouts\\Account-Account %28Support%29 Layout.layout-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 9759,
             "modifiedTime": 1520308433762,
             "changeTime": 1520308433762,
-            "contentHash": "7fc36b55482dea38c4ac14a2ecaac55ff0f906e9"
+            "contentHash": "7fc36b55482dea38c4ac14a2ecaac55ff0f906e9",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
-        "C:\\Users\\r.kutti.shettigar\\geolocation\\force-app\\main\\default\\layouts\\Account-Account Layout.layout-meta.xml",
+        "C:\\Users\\r.kutti.shettigar\\Geolocation\\force-app\\main\\default\\layouts\\Account-Account Layout.layout-meta.xml",
         {
-            "state": "u",
-            "sourcePath": "C:\\Users\\r.kutti.shettigar\\geolocation\\force-app\\main\\default\\layouts\\Account-Account Layout.layout-meta.xml",
+            "sourcePath": "C:\\Users\\r.kutti.shettigar\\Geolocation\\force-app\\main\\default\\layouts\\Account-Account Layout.layout-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 9711,
             "modifiedTime": 1520308433773,
             "changeTime": 1520308433773,
-            "contentHash": "bcbb934f441154e04f50a4746276ccc8e812255d"
+            "contentHash": "bcbb934f441154e04f50a4746276ccc8e812255d",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
-        "C:\\Users\\r.kutti.shettigar\\geolocation\\force-app\\main\\default\\layouts\\Account-Account %28Marketing%29 Layout.layout-meta.xml",
+        "C:\\Users\\r.kutti.shettigar\\Geolocation\\force-app\\main\\default\\layouts\\Account-Account %28Marketing%29 Layout.layout-meta.xml",
         {
-            "state": "u",
-            "sourcePath": "C:\\Users\\r.kutti.shettigar\\geolocation\\force-app\\main\\default\\layouts\\Account-Account %28Marketing%29 Layout.layout-meta.xml",
+            "sourcePath": "C:\\Users\\r.kutti.shettigar\\Geolocation\\force-app\\main\\default\\layouts\\Account-Account %28Marketing%29 Layout.layout-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 9759,
             "modifiedTime": 1520308433782,
             "changeTime": 1520308433782,
-            "contentHash": "9e57aac6bbff3d54f3c87792f1968c8200f41c3f"
+            "contentHash": "9e57aac6bbff3d54f3c87792f1968c8200f41c3f",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
-        "C:\\Users\\r.kutti.shettigar\\geolocation\\force-app\\main\\default\\profiles\\Custom%3A Sales Profile.profile-meta.xml",
+        "C:\\Users\\r.kutti.shettigar\\Geolocation\\force-app\\main\\default\\profiles\\Custom%3A Sales Profile.profile-meta.xml",
         {
-            "state": "u",
-            "sourcePath": "C:\\Users\\r.kutti.shettigar\\geolocation\\force-app\\main\\default\\profiles\\Custom%3A Sales Profile.profile-meta.xml",
+            "sourcePath": "C:\\Users\\r.kutti.shettigar\\Geolocation\\force-app\\main\\default\\profiles\\Custom%3A Sales Profile.profile-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 4595,
             "modifiedTime": 1520308433793,
             "changeTime": 1520308433793,
-            "contentHash": "673116a98ad119c1b9605139fb41a4c8ba3ac033"
+            "contentHash": "673116a98ad119c1b9605139fb41a4c8ba3ac033",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
-        "C:\\Users\\r.kutti.shettigar\\geolocation\\force-app\\main\\default\\profiles\\Custom%3A Marketing Profile.profile-meta.xml",
+        "C:\\Users\\r.kutti.shettigar\\Geolocation\\force-app\\main\\default\\profiles\\Custom%3A Marketing Profile.profile-meta.xml",
         {
-            "state": "u",
-            "sourcePath": "C:\\Users\\r.kutti.shettigar\\geolocation\\force-app\\main\\default\\profiles\\Custom%3A Marketing Profile.profile-meta.xml",
+            "sourcePath": "C:\\Users\\r.kutti.shettigar\\Geolocation\\force-app\\main\\default\\profiles\\Custom%3A Marketing Profile.profile-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 4599,
             "modifiedTime": 1520308433806,
             "changeTime": 1520308433806,
-            "contentHash": "a0957e14363962b7657e4cd8cb81396638762b46"
+            "contentHash": "a0957e14363962b7657e4cd8cb81396638762b46",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
-        "C:\\Users\\r.kutti.shettigar\\geolocation\\force-app\\main\\default\\profiles\\Custom%3A Support Profile.profile-meta.xml",
+        "C:\\Users\\r.kutti.shettigar\\Geolocation\\force-app\\main\\default\\profiles\\Custom%3A Support Profile.profile-meta.xml",
         {
-            "state": "u",
-            "sourcePath": "C:\\Users\\r.kutti.shettigar\\geolocation\\force-app\\main\\default\\profiles\\Custom%3A Support Profile.profile-meta.xml",
+            "sourcePath": "C:\\Users\\r.kutti.shettigar\\Geolocation\\force-app\\main\\default\\profiles\\Custom%3A Support Profile.profile-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 4935,
             "modifiedTime": 1520308433817,
             "changeTime": 1520308433817,
-            "contentHash": "56014dc48f05a0326b9a6dcaabd720c27eb3c895"
+            "contentHash": "56014dc48f05a0326b9a6dcaabd720c27eb3c895",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
-        "C:\\Users\\r.kutti.shettigar\\geolocation\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
+        "C:\\Users\\r.kutti.shettigar\\Geolocation\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
         {
-            "state": "u",
-            "sourcePath": "C:\\Users\\r.kutti.shettigar\\geolocation\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
+            "sourcePath": "C:\\Users\\r.kutti.shettigar\\Geolocation\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 17639,
             "modifiedTime": 1520308433838,
             "changeTime": 1520308433838,
-            "contentHash": "18e25c4c9bfc77cf3d1626ef12a86f312a865254"
+            "contentHash": "18e25c4c9bfc77cf3d1626ef12a86f312a865254",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
-        "C:\\Users\\r.kutti.shettigar\\geolocation\\force-app\\main\\default\\objects\\Account\\fields",
+        "C:\\Users\\r.kutti.shettigar\\Geolocation\\force-app\\main\\default\\objects\\Account\\fields",
         {
-            "state": "u",
-            "sourcePath": "C:\\Users\\r.kutti.shettigar\\geolocation\\force-app\\main\\default\\objects\\Account\\fields",
+            "sourcePath": "C:\\Users\\r.kutti.shettigar\\Geolocation\\force-app\\main\\default\\objects\\Account\\fields",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1520308433731,
             "changeTime": 1520308433731,
-            "contentHash": "2064742397a490fbaf084784c408e2b542ed2ecd"
+            "contentHash": "2064742397a490fbaf084784c408e2b542ed2ecd",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
-        "C:\\Users\\r.kutti.shettigar\\geolocation\\force-app\\main\\default\\objects\\Account",
+        "C:\\Users\\r.kutti.shettigar\\Geolocation\\force-app\\main\\default\\objects\\Account",
         {
-            "state": "u",
-            "sourcePath": "C:\\Users\\r.kutti.shettigar\\geolocation\\force-app\\main\\default\\objects\\Account",
+            "sourcePath": "C:\\Users\\r.kutti.shettigar\\Geolocation\\force-app\\main\\default\\objects\\Account",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1520308433726,
             "changeTime": 1520308433726,
-            "contentHash": "70f132fe13e692866a539996a6b9a05b46076a07"
+            "contentHash": "70f132fe13e692866a539996a6b9a05b46076a07",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
-        "C:\\Users\\r.kutti.shettigar\\geolocation\\force-app\\main\\default\\objects",
+        "C:\\Users\\r.kutti.shettigar\\Geolocation\\force-app\\main\\default\\objects",
         {
-            "state": "u",
-            "sourcePath": "C:\\Users\\r.kutti.shettigar\\geolocation\\force-app\\main\\default\\objects",
+            "sourcePath": "C:\\Users\\r.kutti.shettigar\\Geolocation\\force-app\\main\\default\\objects",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1520308433725,
             "changeTime": 1520308433725,
-            "contentHash": "85dfa32c97d8618d1bea083609e2c8a29845abe5"
+            "contentHash": "85dfa32c97d8618d1bea083609e2c8a29845abe5",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
-        "C:\\Users\\r.kutti.shettigar\\geolocation\\force-app\\main\\default\\layouts",
+        "C:\\Users\\r.kutti.shettigar\\Geolocation\\force-app\\main\\default\\layouts",
         {
-            "state": "u",
-            "sourcePath": "C:\\Users\\r.kutti.shettigar\\geolocation\\force-app\\main\\default\\layouts",
+            "sourcePath": "C:\\Users\\r.kutti.shettigar\\Geolocation\\force-app\\main\\default\\layouts",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1520308433781,
             "changeTime": 1520308433781,
-            "contentHash": "e3687f65b0885128a02e534ece5e0cf3ce9f38c0"
+            "contentHash": "e3687f65b0885128a02e534ece5e0cf3ce9f38c0",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
-        "C:\\Users\\r.kutti.shettigar\\geolocation\\force-app\\main\\default\\profiles",
+        "C:\\Users\\r.kutti.shettigar\\Geolocation\\force-app\\main\\default\\profiles",
         {
-            "state": "u",
-            "sourcePath": "C:\\Users\\r.kutti.shettigar\\geolocation\\force-app\\main\\default\\profiles",
+            "sourcePath": "C:\\Users\\r.kutti.shettigar\\Geolocation\\force-app\\main\\default\\profiles",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1520308433837,
             "changeTime": 1520308433837,
-            "contentHash": "9c367b0e719eb8c48c5b0d9cbfb5f580a4bd6717"
+            "contentHash": "9c367b0e719eb8c48c5b0d9cbfb5f580a4bd6717",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ]
 ]
